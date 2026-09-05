@@ -62,6 +62,8 @@ The interactive dashboard monitors:
 - Employee Utilization
 - Delivery Performance
 - Customer Rating
+- ### Dashboard Preview
+![Supply Chain Dashboard](PowerBI/Supply_Chain_Dashboard_Analysis.png)
 
 ### Dashboard KPIs
 - Total Sales: 2.78M
